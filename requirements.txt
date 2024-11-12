@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+pandas
+tqdm
+onnx==1.16.1
+optimum
+onnxruntime
+cmake
+matplotlib
